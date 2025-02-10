@@ -1,0 +1,2 @@
+alias sudo="doas"
+alias doas="doas --"
