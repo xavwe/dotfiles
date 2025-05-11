@@ -14,6 +14,9 @@ case ":$PATH:" in
 esac
 # pnpm end
 
+#zsh vi mode
+source /usr/share/zsh/plugins/zsh-vi-mode/zsh-vi-mode.plugin.zsh
+
 # newline after each command
 # https://www.reddit.com/r/commandline/comments/13r2ou3/comment/mo1p4ox/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 PROMPT_NEEDS_NEWLINE=false
