@@ -30,6 +30,7 @@
   -  [ ] lazyjj
   -  [ ] starship
   -  [ ] librewolf
+  -  [ ] hyprcursor
 -  [ ] installation script
 -  [ ] add images to repo
 ## Programs
