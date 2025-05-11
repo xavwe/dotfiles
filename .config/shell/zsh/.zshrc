@@ -17,6 +17,18 @@ esac
 #zsh vi mode
 source /usr/share/zsh/plugins/zsh-vi-mode/zsh-vi-mode.plugin.zsh
 
+# syntax highlighting
+source /usr/share/zsh/plugins/zsh-syntax-highlighting-catppuccin/themes/catppuccin_mocha-zsh-syntax-highlighting.zsh
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh
+
+# autosuggestions
+source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.plugin.zsh
+
+# history substring search
+source /usr/share/zsh/plugins/zsh-history-substring-search/zsh-history-substring-search.zsh
+bindkey '^[[A' history-substring-search-up
+bindkey '^[[B' history-substring-search-down
+
 # newline after each command
 # https://www.reddit.com/r/commandline/comments/13r2ou3/comment/mo1p4ox/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 PROMPT_NEEDS_NEWLINE=false
@@ -31,4 +43,5 @@ clear() {
   command clear
 }
 
+# autocorrection
 setopt correct_all
