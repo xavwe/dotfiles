@@ -1,0 +1,3 @@
+zsh-speedtest() {
+  time zsh -i -c exit
+}
