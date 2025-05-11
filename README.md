@@ -30,6 +30,7 @@
   -  [ ] starship
   -  [ ] librewolf
   -  [ ] hyprcursor
+  -  [ ] fzf
 -  [ ] installation script
 -  [ ] add images to repo
 ## Programs
