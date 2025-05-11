@@ -39,7 +39,7 @@
 | Window Manager | hyprland, xdg-desktop-portal-hyprland |
 | Cursor | (hyprcursor planned) |
 | Terminal | kitty |
-| Shell | zsh (nushell planned) |
+| Shell | zsh, zsh-vi-mode (nushell planned) |
 | Fetch | fastfetch |
 | File Manager | yazi |
 | Browser | chrome (librewolf planned) |
