@@ -1,0 +1,9 @@
+#!/bin/bash
+function docker {
+  if [[ "$1" == "logs" ]]
+  then
+    command doas docker logs ${@:2} 2>&1
+  else
+    command doas docker $@
+  fi
+}

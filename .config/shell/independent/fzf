@@ -1,0 +1,2 @@
+alias fzf="fzf --preview='bat --color=always {}'"
+alias nvimi='nvim $(fzf --preview="bat --color=always {}")'
