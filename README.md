@@ -8,6 +8,7 @@
   - [ ] librewolf
   - [ ] podman
   - [ ] jj, lazyjj
+  - [ ] atuin
   - [ ] nvim-web
   - [ ] nvim-arduino
   - [ ] nvim-rpi
@@ -47,14 +48,14 @@
 | Color Picker | hyprpicker |
 | Containerization | docker, docker compose, lazydocker<br>(podman planned) |
 | Version Control System | git, lazygit<br>(jj, lazyjj planned) |
-| Terminal History | |
+| Shell History | (atuin planned) |
 | AUR Helper | paru |
 | | doas |
 | Font | ttf-apple-emoji<br>ttf-jetbrains-mono-nerd |
 | Screenshot Util | grim, slurp |
 | Clipboard Manager | wl-clipboard |
 | Virtualisazion | |
-| Miscellaneous | curl<br>wget<br>direnv<br>fzf<br>bat<br>eza<br>zoxide<br>btop<br>ripgrep<br>fd<br>7zip<br>gh |
+| Miscellaneous | curl<br>wget<br>direnv<br>fzf<br>bat<br>eza<br>zoxide<br>btop<br>ripgrep<br>fd<br>7zip<br>gh<br>linux-wifi-hotspot |
 ### Coding
 #### Web Development
 | Component | Program |
