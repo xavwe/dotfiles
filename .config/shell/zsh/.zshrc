@@ -30,3 +30,5 @@ clear() {
   PROMPT_NEEDS_NEWLINE=false
   command clear
 }
+
+setopt correct_all
