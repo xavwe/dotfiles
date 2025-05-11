@@ -31,6 +31,7 @@
   -  [ ] librewolf
   -  [ ] hyprcursor
   -  [ ] fzf
+  -  [ ] zsh-syntax-highlighting
 -  [ ] installation script
 -  [ ] add images to repo
 ## Programs
