@@ -50,3 +50,9 @@ clear() {
 
 # autocorrection
 setopt correct_all
+
+# after vi mode init
+function my_init() {
+  source <(fzf --zsh)
+}
+zvm_after_init_commands+=(my_init)
