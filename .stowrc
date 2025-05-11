@@ -2,3 +2,8 @@
 --ignore=.stowrc
 --ignore='^/README.*'
 --ignore='^/LICENSE.*'
+--ignore='^\.git$'
+--ignore='^\.gitignore$'
+--ignore='^\.gitmodules$'
+--ignore='^\.gitconfig$'
+--ignore='^\.jj$'
