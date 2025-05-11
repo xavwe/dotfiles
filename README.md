@@ -5,11 +5,11 @@
 
 ## Roadmap
 - [ ] implement planned features
-  - [ ] hyprcursor
+  - [ ] (hyprcursor)
   - [ ] librewolf
   - [ ] podman
   - [ ] jj, lazyjj
-  - [ ] atuin
+  - [ ] (atuin)
   - [ ] nvim-web
   - [ ] nvim-arduino
   - [ ] nvim-rpi
