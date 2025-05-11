@@ -1,1 +1,4 @@
-alias ll="ls -al"
+# alias ll="ls -al"
+alias ll="exa --all --long --icons --group"
+alias ls="exa"
+alias tree="exa --tree"
