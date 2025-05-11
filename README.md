@@ -1,4 +1,5 @@
 # dotfiles
+Created for [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux)
 ## Installation
 
 ## Roadmap
