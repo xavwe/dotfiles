@@ -6,7 +6,6 @@
 ## Roadmap
 - [ ] implement planned features
   - [ ] hyprcursor
-  - [ ] nushell
   - [ ] librewolf
   - [ ] podman
   - [ ] jj, lazyjj
