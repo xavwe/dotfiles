@@ -72,7 +72,7 @@
     </tr>
     <tr>
         <td>Browser</td>
-        <td>firefox<ul><li>(arkenfox planned)</li><li>(ublock-origin planned)</li><li>(skip-redirect planned)</li><li>(no-tabs planned)</li></ul></td>
+        <td>firefox<ul><li>(arkenfox planned)</li><li>(ublock-origin planned)</li><li>(skip-redirect planned)</li><li>(no-tabs planned)</li><li>(vimium planned)</li></ul></td>
     </tr>
     <tr>
         <td>Editor</td>
