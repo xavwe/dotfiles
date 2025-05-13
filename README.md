@@ -138,7 +138,7 @@
         <td></td>
     </tr>
     <tr>
-        <td rowspan="5">Miscellaneous</td>
+        <td rowspan="13">Miscellaneous</td>
 <td>curl</td>
     </tr>
   <tr>
@@ -148,7 +148,34 @@
 <td>direnv</td>
     </tr>
   <tr>
-<td>fzf&lt;br&gt;bat&lt;br&gt;eza&lt;br&gt;zoxide&lt;br&gt;btop&lt;br&gt;ripgrep&lt;br&gt;fd&lt;br&gt;7zip&lt;br&gt;gh&lt;br&gt;linux-wifi-hotspot</td>
+<td>fzf</td>
+    </tr>
+  <tr>
+<td>bat</td>
+    </tr>
+  <tr>
+<td>eza</td>
+    </tr>
+  <tr>
+<td>zoxide</td>
+    </tr>
+  <tr>
+<td>btop</td>
+    </tr>
+  <tr>
+<td>ripgrep</td>
+    </tr>
+  <tr>
+<td>fd</td>
+    </tr>
+  <tr>
+<td>7zip</td>
+    </tr>
+  <tr>
+<td>gh</td>
+    </tr>
+  <tr>
+<td>linux-wifihotspot</td>
     </tr>
 </table>
 
