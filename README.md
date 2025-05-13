@@ -43,7 +43,7 @@
 | Shell | zsh, zsh-vi-mode, zsh-syntax-highlighting, zsh-syntax-highlighting-catppuccin, zsh-autosuggestions, zsh-history-substring-search |
 | Fetch | fastfetch |
 | File Manager | yazi |
-| Browser | chrome (librewolf planned) |
+| Browser | chrome (firefox, arkenfox, ublock-origin, skip-redirect, no-tabs planned) |
 | Editor | neovim |
 | Lockscreen | hyprlock, hypridle |
 | Shell Prompt | starship |
