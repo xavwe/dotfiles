@@ -54,7 +54,13 @@
     </tr>
     <tr>
         <td>Shell</td>
-        <td>zsh, zsh-vi-mode, zsh-syntax-highlighting, zsh-syntax-highlighting-catppuccin, zsh-autosuggestions, zsh-history-substring-search</td>
+        <td>zsh<ul>
+  <li>zsh-vi-mode</li>
+  <li>zsh-syntax-highlighting</li>
+  <li>zsh-syntax-highlighting-catppuccin</li>
+  <li>zsh-autosuggestions</li>
+  <li>zsh-history-substring-search</li>
+</ul></td>
     </tr>
     <tr>
         <td>Fetch</td>
@@ -70,7 +76,7 @@
     </tr>
     <tr>
         <td>Editor</td>
-        <td>neovim</td>
+        <td>neovim<ul><li>(lazy.nvim planned)</li></ul></td>
     </tr>
     <tr>
         <td>Lockscreen</td>
