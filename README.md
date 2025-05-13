@@ -35,31 +35,123 @@
 -  [ ] installation script
 -  [ ] add images to repo
 ## Programs
-| Component | Program |
-| --- | --- |
-| Window Manager | hyprland, xdg-desktop-portal-hyprland |
-| Cursor | (hyprcursor planned) |
-| Terminal | kitty |
-| Shell | zsh, zsh-vi-mode, zsh-syntax-highlighting, zsh-syntax-highlighting-catppuccin, zsh-autosuggestions, zsh-history-substring-search |
-| Fetch | fastfetch |
-| File Manager | yazi |
-| Browser | chrome (firefox, arkenfox, ublock-origin, skip-redirect, no-tabs planned) |
-| Editor | neovim |
-| Lockscreen | hyprlock, hypridle |
-| Shell Prompt | starship |
-| Symlink Farm Manager | stow |
-| Pdf Viewer | zathura |
-| Color Picker | hyprpicker |
-| Containerization | docker, docker compose, lazydocker<br>(podman planned) |
-| Version Control System | git, lazygit<br>(jj, lazyjj planned) |
-| Shell History | (atuin planned) |
-| AUR Helper | paru |
-| | doas |
-| Font | ttf-apple-emoji<br>ttf-jetbrains-mono-nerd |
-| Screenshot Util | grim, slurp |
-| Clipboard Manager | wl-clipboard |
-| Virtualisazion | |
-| Miscellaneous | curl<br>wget<br>direnv<br>fzf<br>bat<br>eza<br>zoxide<br>btop<br>ripgrep<br>fd<br>7zip<br>gh<br>linux-wifi-hotspot |
+<table>
+    <tr>
+        <td>Component</td>
+        <td>Program</td>
+    </tr>
+    <tr>
+        <td>Window Manager</td>
+        <td>hyprland, xdg-desktop-portal-hyprland</td>
+    </tr>
+    <tr>
+        <td>Cursor</td>
+        <td>(hyprcursor planned)</td>
+    </tr>
+    <tr>
+        <td>Terminal</td>
+        <td>kitty</td>
+    </tr>
+    <tr>
+        <td>Shell</td>
+        <td>zsh, zsh-vi-mode, zsh-syntax-highlighting, zsh-syntax-highlighting-catppuccin, zsh-autosuggestions, zsh-history-substring-search</td>
+    </tr>
+    <tr>
+        <td>Fetch</td>
+        <td>fastfetch</td>
+    </tr>
+    <tr>
+        <td>File Manager</td>
+        <td>yazi</td>
+    </tr>
+    <tr>
+        <td>Browser</td>
+        <td>chrome (firefox, arkenfox, ublock-origin, skip-redirect, no-tabs planned)</td>
+    </tr>
+    <tr>
+        <td>Editor</td>
+        <td>neovim</td>
+    </tr>
+    <tr>
+        <td>Lockscreen</td>
+        <td>hyprlock, hypridle</td>
+    </tr>
+    <tr>
+        <td>Shell Prompt</td>
+        <td>starship</td>
+    </tr>
+    <tr>
+        <td>Symlink Farm Manager</td>
+        <td>stow</td>
+    </tr>
+    <tr>
+        <td>Pdf Viewer</td>
+        <td>zathura</td>
+    </tr>
+    <tr>
+        <td>Color Picker</td>
+        <td>hyprpicker</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Containerization</td>
+        <td>docker, docker compose, lazydocker</td>
+    </tr>
+    <tr>
+        <td>(podman planned)</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Version Control System</td>
+        <td>git, lazygit</td>
+    </tr>
+    <tr>
+        <td>(jj, lazyjj planned)</td>
+    </tr>
+    <tr>
+        <td>Shell History</td>
+        <td>(atuin planned)</td>
+    </tr>
+    <tr>
+        <td>AUR Helper</td>
+        <td>paru</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>doas</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Font</td>
+        <td>ttf-apple-emoji</td>
+    </tr>
+  <tr>
+        <td>ttf-jetbrains-mono-nerd</td>
+    </tr>
+    <tr>
+        <td>Screenshot Util</td>
+        <td>grim, slurp</td>
+    </tr>
+    <tr>
+        <td>Clipboard Manager</td>
+        <td>wl-clipboard</td>
+    </tr>
+    <tr>
+        <td>Virtualisazion</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="5">Miscellaneous</td>
+<td>curl</td>
+    </tr>
+  <tr>
+<td>wget</td>
+    </tr>
+  <tr>
+<td>direnv</td>
+    </tr>
+  <tr>
+<td>fzf&lt;br&gt;bat&lt;br&gt;eza&lt;br&gt;zoxide&lt;br&gt;btop&lt;br&gt;ripgrep&lt;br&gt;fd&lt;br&gt;7zip&lt;br&gt;gh&lt;br&gt;linux-wifi-hotspot</td>
+    </tr>
+</table>
+
 ### Coding
 #### Web Development
 | Component | Program |
