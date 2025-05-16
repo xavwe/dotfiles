@@ -80,7 +80,7 @@
     </tr>
   <tr>
         <td>Clipboard Manager</td>
-        <td>wlclipboard</td>
+        <td>wl-clipboard</td>
     </tr>
     <tr>
         <td>Lockscreen</td>
