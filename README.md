@@ -78,6 +78,10 @@
         <td>Editor</td>
         <td>neovim<ul><li>(lazy.nvim planned)</li></ul></td>
     </tr>
+  <tr>
+        <td>Clipboard Manager</td>
+        <td>wlclipboard</td>
+    </tr>
     <tr>
         <td>Lockscreen</td>
         <td>hyprlock, hypridle</td>
