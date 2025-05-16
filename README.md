@@ -170,7 +170,7 @@
 <td>zoxide</td>
     </tr>
   <tr>
-<td>btop</td>
+<td>btop (compiled with GPU_SUPPORT=true)</td>
     </tr>
   <tr>
 <td>ripgrep</td>
