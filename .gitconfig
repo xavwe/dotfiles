@@ -2,3 +2,5 @@
   ui = auto
 [core]
   editor = nvim
+[alias]
+	yolo = !git commit -m \"$(curl -s https://whatthecommit.com/index.txt)\"
