@@ -1,0 +1,1 @@
+alias chromium="chromium --enable-features=UseOzonePlatform --ozone-platform=wayland"
