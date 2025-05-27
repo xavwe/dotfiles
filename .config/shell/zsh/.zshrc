@@ -37,10 +37,17 @@ bindkey '^[[B' history-substring-search-down
 # newline after each command
 # https://www.reddit.com/r/commandline/comments/13r2ou3/comment/mo1p4ox/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 PROMPT_NEEDS_NEWLINE=false
+preexec() {
+  LAST_COMMAND_RAN=1
+}
 precmd() {
-  if [[ "$PROMPT_NEEDS_NEWLINE" == true ]]; then
+  if [[ -n "$LAST_COMMAND_RAN" ]]; then
     echo
+    unset LAST_COMMAND_RAN
   fi
+}
+precmd() {
+  [[ "$PROMPT_NEEDS_NEWLINE" == true ]] && [[ -n "$LAST_COMMAND_RAN" ]] && echo
   PROMPT_NEEDS_NEWLINE=true
 }
 clear() {
