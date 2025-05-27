@@ -1,1 +1,3 @@
-alias icat="kitten icat"
+# alias icat="kitten icat"
+alias icat="chafa"
+alias vcat="mpv"
